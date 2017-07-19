@@ -6,6 +6,7 @@
 // Spans.
 
 #include <chrono>
+#include <function>
 #include <memory>
 
 #include "lightstep/util.h"
